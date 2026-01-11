@@ -11,7 +11,5 @@ Building offensive tooling, automation, and AI-assisted security workflows.
   Command injection vulnerability in the OpenAI Codex CLI  
   [Full write up](https://research.checkpoint.com/2025/openai-codex-cli-command-injection-vulnerability/)
 
----
-
 ## 📫 Contact
 DM on X or email me
