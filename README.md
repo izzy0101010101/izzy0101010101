@@ -1,6 +1,11 @@
 ## 🔒 Security Researcher | 👨‍💻 Full-Stack Dev
 Building offensive tooling, automation, and AI-assisted security workflows.
 
+## 🚀 Building
+
+**[NullReport](https://nullreport.app)** — a self-hosted, AI-assisted penetration test report generator. Findings become a reusable library, you export branded DOCX reports, and your client data never leaves your machine.
+[Website](https://nullreport.app) · [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
+
 ## Socials 
 - [X](https://x.com/izzy0101010101)
 - Email: izzy0101010101@gmail.com
