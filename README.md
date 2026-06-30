@@ -3,7 +3,7 @@ Building offensive tooling, automation, and AI-assisted security workflows.
 
 ## 🚀 Projects
 
-**[NullReport](https://nullreport.app)** — a self-hosted, AI-assisted penetration test report generator. Findings become a reusable library, you export branded DOCX reports, and your client data never leaves your machine.
+**[NullReport](https://nullreport.app)** - a self-hosted, AI-assisted penetration test report generator. Findings become a reusable library, you export branded DOCX reports, and your client data never leaves your machine.
 [Website](https://nullreport.app) · [Docs](https://docs.nullreport.app) · [GitHub](https://github.com/nullreport)
 
 ## Socials 
